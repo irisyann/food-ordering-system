@@ -1,8 +1,7 @@
 /*******************************************************************************/
 /* Assignment: Food ordering system
-/* What the program does: Customers can order food, restaurant managers can manage the system
-/* Programmer name: Iris Yan Ning
-/* Programmer Matric #: 153410
+/* What the program does: Customers can order food, restaurant managers can manage the system - console app
+/* Programmer name: Iris Yan
 /******************************************************************************/
 
 #include <iostream>
